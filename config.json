@@ -1,0 +1,20 @@
+{
+   "supported_formats":[
+      ".mp3",
+      "wav",
+      ".ogg"
+   ],
+
+   "music_libaries": [
+     "A:/Resources/Assets/SFX"
+   ],
+
+   "seperators": [
+     ",",
+     ";",
+     " ",
+     "|",
+     "_",
+     "-"
+   ]
+}
